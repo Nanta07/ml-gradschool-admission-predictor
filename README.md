@@ -63,6 +63,8 @@ The model successfully predicts admission chances with reasonable accuracy using
 2. Install required libraries (`pip install -r requirements.txt` if available).
 3. Run the Jupyter notebook or Python script to view predictions and visualizations.
 
+Notes: The project report and also project markdown is still in Bahasa Indonesia, the English version will be available soon.
+
 ## 📬 Author
 **Ananta Boemi Adji**  
 Machine Learning Enthusiast | Computer Engineering Student  
